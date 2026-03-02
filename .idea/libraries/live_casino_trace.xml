@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="live-casino-trace">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/reports/live-casino-trace.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
